@@ -1,0 +1,11 @@
+[
+    { "id": 1, "name": "Classic Silver Watch", "price": 99.99 },
+    { "id": 2, "name": "Sporty Black Chronograph", "price": 149.99 },
+    { "id": 3, "name": "Elegant Rose Gold Timepiece", "price": 199.99 },
+    { "id": 4, "name": "Luxury Diamond-Encrusted Watch", "price": 499.99 },
+    { "id": 5, "name": "Minimalist Leather Band Watch", "price": 79.99 },
+    { "id": 6, "name": "Digital Smartwatch", "price": 129.99 },
+    { "id": 7, "name": "Diver's Waterproof Watch", "price": 179.99 },
+    { "id": 8, "name": "Vintage Pocket Watch", "price": 299.99 }
+  ]
+  
